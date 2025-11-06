@@ -15,7 +15,7 @@ const Background = () => {
         {/* Center Circle */}
         <div className="absolute top-[50%] left-[50%] w-[120px] h-[120px] rounded-full border border-[#3b83f642] animate-[float_25s_ease-in-out_infinite_3s]" />
         {/* Top Left Circle */}
-        <div className="absolute top-[5%] left-[20%] w-[80px] h-[80px] rounded-full border border-[#3b83f642] animate-[float_18s_ease-in-out_infinite_2s]" />
+        <div className="absolute top-[5%] left-[20%] w-20 h-20 rounded-full border border-[#3b83f642] animate-[float_18s_ease-in-out_infinite_2s]" />
         {/* Bottom Right Circle */}
         <div className="absolute bottom-[10%] right-[15%] w-[140px] h-[140px] rounded-full border border-[#3b83f642] animate-[float_22s_ease-in-out_infinite_4s]" />
         {/* Left Square */}
