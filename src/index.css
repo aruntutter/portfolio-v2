@@ -47,4 +47,11 @@
     color: var(--color-text-primary);
     font-family: var(--font-family);
   }
+
+  @media (max-width: 490px) {
+    .responsive-card {
+      padding-left: 1rem !important;
+      padding-right: 1rem !important;
+    }
+  }
 }
