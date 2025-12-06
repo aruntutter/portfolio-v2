@@ -77,7 +77,7 @@ const Header = () => {
       {/* Download Resume Button */}
       <div className="mt-4 md:mt-0 md:absolute md:right-4 md:top-7">
         <a
-          href="https://drive.google.com/uc?export=download&id=1F61dBCd2WQPdVzqED0MkaddrQ2pVdvfJ"
+          href="https://drive.google.com/uc?export=download&id=1dywYJ1OHhGZrXlNugVTqWhU_g0SetuqF"
           download
           className="flex items-center gap-2 px-5 py-3 rounded-xl border border-(--color-border-light) bg-[rgba(255,255,255,0.03)] text-(--color-text-light) text-sm font-medium transition-all duration-300 hover:bg-[rgba(255,255,255,0.06)] hover:border-(--color-border-hover) hover:text-(--color-text-primary) hover:-translate-y-0.5"
         >
