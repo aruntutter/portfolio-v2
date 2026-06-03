@@ -14,14 +14,11 @@ const Footer = () => {
         }}
       ></div>
 
-      <p className="mb-2 text-(--color-text-secondary) tracking-wide">
+      <p className="mb-1 text-(--color-text-secondary) tracking-wide">
         アルン・クマール・アール
       </p>
-      <p className="text-[14px] text-(--color-text-muted) mb-1">
-        静かな人ほど、深い海を持つ — Shizukana hito hodo, fukai umi o motsu
-      </p>
       <p className="text-xs italic text-(--color-text-muted) mb-3">
-        “The quieter the person, the deeper the sea within.”
+        “கற்றது கைமண் அளவு, கல்லாதது உலகளவு”
       </p>
     </footer>
   );
